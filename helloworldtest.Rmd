@@ -2,9 +2,7 @@
 title: "Hello World-test."
 author: "Robin"
 date: "5/14/2019"
-output: 
-  html_document: 
-    keep_md: yes
+output: github_document
 ---
 
 ```{r}
